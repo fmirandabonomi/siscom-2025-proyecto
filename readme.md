@@ -10,6 +10,7 @@ Autores (completar):
 ## Objetivos
 
 - Planificar una red móvil celular para dar cobertura en una región de la Ruta Provincial 307, según el archivo `tramo1.kml` o `tramo2.kml` según les haya sido asignado.
+- Considerar para `tramo1.kml` que el punto de conexión a la red está en Monteros, y para `tramo2.kml` en Tafí del Valle.
 - El objeto de la red es dar servicio al tráfico vehicular en la zona.
 - Planificar la localización de las estaciones base.
 - Estimar la cobertura de las estaciones base.
